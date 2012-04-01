@@ -3,7 +3,8 @@ OBJECTS = css \
 	*.html .ht* *.ico
 PRODUCTION = hhsw.de@ssh.strato.de:sites/striker/
 PROTO = hhsw.de@ssh.strato.de:sites/proto/striker/
-OPTIONS = --recursive \
+OPTIONS = --exclude=src \
+	--recursive \
 	--links \
 	--update \
 	--delete-after \
