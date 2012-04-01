@@ -1,0 +1,11 @@
+/**
+ * Generic document styles
+ */
+body
+{
+	margin: 0;
+	padding: 0;
+	background: black url( images/bg.gif );
+	font: 12px sans-serif;
+	color: #ffffff;
+}

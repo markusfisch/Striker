@@ -1,0 +1,4 @@
+DirectoryIndex index.html
+Options FollowSymLinks
+
+ErrorDocument 404 http://striker.markusfisch.de/

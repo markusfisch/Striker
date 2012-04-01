@@ -1,0 +1,204 @@
+/**
+ * Content area
+ */
+#Briefing
+{
+	margin: 0;
+	padding: 220px 16px 0 16px;
+	height: 240px;
+	background: left top url( images/left.gif ) no-repeat;
+	font-size: 14px;
+	min-width: 624px;
+}
+
+#Briefing h1
+{
+	position: absolute;
+	left: 0;
+	top: 0;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 196px;
+	overflow: hidden;
+	background: right top url( images/right.gif ) no-repeat;
+}
+
+#Briefing h1 span
+{
+	position: absolute;
+	left: 0;
+	top: 32px;
+	padding: 123px 0 0 0;
+	width: 100%;
+	height: 0;
+	overflow: hidden;
+	background: center top url( images/striker.gif ) no-repeat;
+}
+
+#Briefing a
+{
+	color: #daffc2;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+#Briefing div
+{
+	margin: 0;
+	padding: 8px 8px 4px 8px;
+	width: 30%;
+	border: 1px dashed #3a5f22;
+	background-image: url( images/contentbg.gif );
+	font-variant: small-caps;
+	color: #baffa2;
+}
+
+#Briefing div.About
+{
+	float: left;
+}
+
+#Briefing div.HowToPlay
+{
+	float: right;
+}
+
+#Briefing div.Play
+{
+	margin: -48px auto 0;
+}
+
+#Briefing div h2
+{
+	margin: 0;
+	padding: 0 0 2px 0;
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 16px;
+	font-variant: small-caps;
+	color: #baffa2;
+	text-align: center;
+	border-bottom: 1px dashed #3a5f22;
+}
+
+#Briefing div h3
+{
+	margin: 10px 0 4px 0;
+	padding: 0;
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 15px;
+	font-variant: small-caps;
+	color: #baffa2;
+	border-bottom: 1px dashed #baffa2;
+}
+
+#Briefing div p
+{
+	margin: 0 0 4px 0;
+	padding: 0;
+	font-family: sans-serif;
+	color: #baffa2;
+}
+
+#Briefing div ul
+{
+	list-style: none;
+	margin: 0 0 4px 0;
+	padding: 0;
+}
+
+#Briefing div ul li
+{
+	margin: 0;
+	padding: 0;
+}
+
+#Briefing a.Launch
+{
+	display: block;
+	margin: 16px;
+	padding: 6px 8px;
+	border: 3px double #baffa2;
+	text-align: center;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 16px;
+	color: #baffa2;
+	overflow: hidden;
+	white-space: nowrap;
+}
+
+#Briefing a.Launch:hover
+{
+	background-color: #baffa2;
+	color: #000000;
+	text-decoration: none;
+}
+
+#Briefing #Scale li
+{
+	padding: 2px 0 2px 0;
+	text-align: center;
+}
+
+#Briefing #Scale li a
+{
+	display: block;
+}
+
+#Briefing #Scale li.Highlight
+{
+	background: left center url( images/highlight-left.gif ) no-repeat;
+	font-size: 24px;
+	font-weight: bold;
+	text-decoration: blink;
+}
+
+#Briefing #Scale li.Highlight a
+{
+	padding: 0 16px;
+	background: right center url( images/highlight-right.gif ) no-repeat;
+}
+
+#L1 a
+{
+	color: #5a9f42;
+}
+
+#L2 a
+{
+	color: #6aaf52;
+}
+
+#L3 a
+{
+	color: #7abf62;
+}
+
+#L4 a
+{
+	color: #8acf72;
+}
+
+#L5 a
+{
+	color: #9adf82;
+}
+
+#L6 a
+{
+	color: #aaef92;
+}
+
+#L7 a
+{
+	color: #baffa2;
+}
+
+#Briefing #Score strong
+{
+	font-size: 24px;
+	font-weight: bold;
+}
