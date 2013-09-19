@@ -6,6 +6,8 @@ Striker is a high striker in form of a straight old vertical shooter.
 It's a silly little game that was originally done in 2003 as an easter egg
 for a boring business site.
 
+![Screenshot](https://markusfisch.github.com/Striker/screenshot.png)
+
 Disclaimer
 ----------
 
